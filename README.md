@@ -1,215 +1,122 @@
 <div align="center">
+  <img src="./assets/hero-banner.jpg" alt="Gautam Gupta — Software Engineering, Applied AI and Full-Stack Development" width="100%" />
 
-👋 Hi, I'm Gautam Gupta
+  <p>
+    <a href="https://github.com/GTGautam16"><img src="https://img.shields.io/badge/GitHub-GTGautam16-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+    <a href="https://www.linkedin.com/in/gautam-gupta-it/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+    <a href="mailto:gautam16.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gautam" /></a>
+  </p>
 
-Information Technology Graduate • Python • Data & AI • Full-Stack Development
-
-<p>
-  <a href="https://github.com/GTGautam16">GitHub</a> •
-  <a href="https://linkedin.com/in/gautam-gupta-it">LinkedIn</a> •
-  <a href="https://gautam-portfolio-website-rho.vercel.app">Portfolio</a> •
-  <a href="mailto:gautam16.work@gmail.com">Email</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=720&height=45&lines=Python+%7C+SQL+%7C+Data+Analysis+%7C+AI+Applications;Building+practical+software+and+data-driven+solutions;Open+to+entry-level+Software%2C+Data%2C+and+AI+opportunities" alt="Typing animation" />
-
+  <h3>Software Engineering · Applied AI · Full-Stack Development</h3>
+  <p>📍 Mumbai, India</p>
 </div>
 
-👨‍💻 About Me
+---
 
-I'm a recent B.E. Information Technology graduate from Mumbai with hands-on experience in Python, SQL, data analysis, data processing, and AI-powered applications.
+## 👨‍💻 About Me
 
-I enjoy turning raw information into structured, useful solutions — from data cleaning and validation to building complete web applications and AI workflows.
+I'm Gautam Gupta, an Information Technology engineering graduate with an Honors specialization in Data Science. I'm interested in building practical software applications, AI-powered workflows, and web solutions that solve real problems.
 
-Learn → Build → Test → Deploy → Improve
+I like working across the development process—from turning a problem into a clear workflow, to writing application logic, integrating APIs, persisting data, testing behavior, and improving the final user experience.
 
-🎓 B.E. Information Technology, 2022–2026
+```text
+Problem → Design → Implement → Test → Deploy → Improve
+```
 
-📍 Mumbai, India
+## 🚀 Featured Project
 
-🧩 Interested in Software Development, Data, AI Applications, and Automation
+<a href="https://github.com/GTGautam16/AI-Resume-Screening-Agent">
+  <img src="./assets/projects/ai-resume-screening-agent.jpg" alt="Original AI Resume Screening Agent project illustration" width="100%" />
+</a>
 
-🚀 Comfortable working with Python, SQL, Git/GitHub, APIs, databases, and modern web technologies
+### AI Resume Screening Agent
 
-🤝 Experienced in technical training, troubleshooting, and communicating technical concepts
+An AI-assisted application focused on analyzing candidate resumes in relation to job requirements. The project explores document processing, model/API integration, structured application workflows, and persistent storage.
 
-🚀 Featured Projects
+**Repository:** [GTGautam16/AI-Resume-Screening-Agent](https://github.com/GTGautam16/AI-Resume-Screening-Agent)
 
-01 · AI Resume Screening Agent
+**Technologies used in the project work:**
 
-Python • FastAPI • LangGraph • PostgreSQL • Streamlit • Groq LLM
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-6C63FF?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Production-oriented Agentic AI platform for resume analysis, interview generation, and personalized learning roadmaps.
+**Engineering areas:** resume text extraction · job-requirement matching · API integration · data persistence · environment configuration · debugging and testing
 
-Built an AI workflow for resume analysis and candidate-focused recommendations
+> The image above is an original concept illustration made for this profile README, not a screenshot of the running application.
 
-Implemented data extraction, cleaning, validation, and structured processing
+---
 
-Used PostgreSQL, SQLAlchemy, RAG, REST APIs, and LLM-based workflows
+## 🧰 Technical Toolkit
 
-Designed the application with deployment and maintainability in mind
+### Languages
 
-🔗 Portfolio: gautam-portfolio-website-rho.vercel.app
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-02 · Developer Portfolio Website
+### Web Development
 
-React • Next.js • TypeScript • Tailwind CSS • Vercel
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
 
-Responsive personal portfolio designed to present projects, technical skills, certifications, achievements, and professional information.
+### AI & Data
 
-Built reusable React components
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-7C3AED?style=flat-square)
 
-Structured projects and professional information for easy navigation
+### Databases, Tools & Deployment
 
-Optimized the site for responsive layouts and performance
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-Deployed with Vercel using Git and GitHub
+## 📚 Currently Improving
 
-🔗 Live: gautam-portfolio-website-rho.vercel.app
+- **AI Engineering:** reliable LLM-powered workflows, structured outputs, and API integration
+- **Backend Engineering:** REST API design, input validation, configuration, and error handling
+- **Database Engineering:** relational modeling, SQL, and PostgreSQL integration
+- **Software Quality:** debugging, test design, and maintainable code
+- **Application Delivery:** deployment, secrets management, and production-readiness fundamentals
 
-03 · Alzheimer’s Disease Detection
-
-Python • Scikit-learn • Pandas • NumPy • Random Forest
-
-Machine learning application developed to analyze healthcare data and generate predictions.
-
-Performed data cleaning and preprocessing
-
-Applied feature engineering and structured data analysis
-
-Trained a Random Forest model for prediction
-
-Evaluated model performance using multiple metrics
-
-🛠️ Technical Skills
-
-💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-📊 Data & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-7C3AED?style=for-the-badge" />
-</p>
-
-⚙️ Development & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-🗄️ Databases & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" />
-</p>
-
-💼 Experience
-
-R&D Trainer — RoboKart Ltd.
-
-2024–2025
-
-Conducted hands-on training in IoT, Robotics, and Embedded Systems
-
-Mentored 100+ students using Arduino, ESP32, and ESP8266 platforms
-
-Supported hardware/software troubleshooting and technical training material preparation
-
-Communicated technical concepts clearly to students with different experience levels
-
-Cybersecurity & Network Security Virtual Intern
-
-Jul 2024 – Dec 2024
-
-AICTE–EduSkills virtual internship with exposure to cybersecurity, networking, firewall technologies, and cloud security fundamentals through Palo Alto Networks and Fortinet.
-
-📜 Certifications
-
-Machine Learning with Python — Infosys Springboard
-
-AI & Python Fundamentals — Cisco
-
-Introduction to DevOps — Great Learning
-
-Data Engineering on AWS
-
-📚 Currently Learning
-
-AI Engineering and production-ready AI applications
-
-Data engineering and backend development
-
-LLM application development and RAG workflows
-
-APIs, databases, deployment, and software engineering practices
-
-📈 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GTGautam16&theme=github_dark" width="100%" alt="GitHub Profile Details" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GTGautam16&theme=github_dark" width="48%" alt="GitHub Statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GTGautam16&theme=github_dark" width="48%" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GTGautam16&theme=github-dark" alt="GitHub Streak" />
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GTGautam16&theme=default" alt="GitHub contribution overview" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GTGautam16&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTGautam16&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=GTGautam16&theme=default&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-🎓 Education
+## 🎓 Education
 
-K.C. College of Engineering and Management Studies and Research
-Bachelor of Engineering — Information Technology · 2022–2026
-CGPA: 7.22 / 10
+**B.E. in Information Technology** · KC College of Engineering and Management Studies and Research  
+**Honors specialization:** Data Science · Mumbai University · 2022–2026
 
-📄 Publication
+---
 
-Gautam D. Gupta, et al. — “NewGen UI: The UI Component Library”
-IJRASET, Vol. 14, Issue IV, April 2026.
+## 🤝 Connect With Me
 
-🤝 Let's Connect
+- **LinkedIn:** [gautam-gupta-it](https://www.linkedin.com/in/gautam-gupta-it/)
+- **GitHub:** [@GTGautam16](https://github.com/GTGautam16)
+- **Email:** [gautam16.work@gmail.com](mailto:gautam16.work@gmail.com)
 
 <div align="center">
-
-I'm interested in opportunities where I can apply software development, data analysis, Python, databases, and AI engineering to real-world problems.
-
-<a href="https://github.com/GTGautam16">GitHub</a> •
-<a href="https://linkedin.com/in/gautam-gupta-it">LinkedIn</a> •
-<a href="https://gautam-portfolio-website-rho.vercel.app">Portfolio</a> •
-<a href="mailto:gautam16.work@gmail.com">Email</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GTGautam16&style=flat-square&color=blue" alt="Profile Views" />
-
+  <sub>Build thoughtfully. Learn continuously. Ship useful things. 🚀</sub>
 </div>
