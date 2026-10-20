@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-banner.jpg" alt="Gautam Gupta — Software Engineering, Applied AI and Full-Stack Development" width="100%" />
+  <img src="./assets/projects/hero-banner.jpg" alt="Gautam Gupta — Software Engineering, Applied AI and Full-Stack Development" width="100%" />
 
   <p>
     <a href="https://github.com/GTGautam16"><img src="https://img.shields.io/badge/GitHub-GTGautam16-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
